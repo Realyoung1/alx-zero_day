@@ -1,2 +1,10 @@
 #!/bin/bash
+update_script
 echo "ALX School"
+
+HEAD
+echo "The school is open!"
+
+echo "ALX School"
+update_script
+master
